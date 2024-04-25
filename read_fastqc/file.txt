@@ -1,0 +1,39 @@
+The length of each read is: 36
+The total number of reads are: 400
+The average quality score of the sequence is: 37.6213888888889
+The GC percentage for bases at position 1 of the sequence is: 54.25 %
+The GC percentage for bases at position 2 of the sequence is: 45 %
+The GC percentage for bases at position 3 of the sequence is: 44.25 %
+The GC percentage for bases at position 4 of the sequence is: 44 %
+The GC percentage for bases at position 5 of the sequence is: 39.5 %
+The GC percentage for bases at position 6 of the sequence is: 39.5 %
+The GC percentage for bases at position 7 of the sequence is: 48 %
+The GC percentage for bases at position 8 of the sequence is: 45.25 %
+The GC percentage for bases at position 9 of the sequence is: 47.25 %
+The GC percentage for bases at position 10 of the sequence is: 44.75 %
+The GC percentage for bases at position 11 of the sequence is: 47.5 %
+The GC percentage for bases at position 12 of the sequence is: 43.75 %
+The GC percentage for bases at position 13 of the sequence is: 41.5 %
+The GC percentage for bases at position 14 of the sequence is: 43.25 %
+The GC percentage for bases at position 15 of the sequence is: 47.75 %
+The GC percentage for bases at position 16 of the sequence is: 38.5 %
+The GC percentage for bases at position 17 of the sequence is: 46 %
+The GC percentage for bases at position 18 of the sequence is: 47.25 %
+The GC percentage for bases at position 19 of the sequence is: 45.5 %
+The GC percentage for bases at position 20 of the sequence is: 48.25 %
+The GC percentage for bases at position 21 of the sequence is: 50.5 %
+The GC percentage for bases at position 22 of the sequence is: 41.5 %
+The GC percentage for bases at position 23 of the sequence is: 50.5 %
+The GC percentage for bases at position 24 of the sequence is: 44.25 %
+The GC percentage for bases at position 25 of the sequence is: 49.5 %
+The GC percentage for bases at position 26 of the sequence is: 45 %
+The GC percentage for bases at position 27 of the sequence is: 51.25 %
+The GC percentage for bases at position 28 of the sequence is: 46.25 %
+The GC percentage for bases at position 29 of the sequence is: 44.5 %
+The GC percentage for bases at position 30 of the sequence is: 47 %
+The GC percentage for bases at position 31 of the sequence is: 43 %
+The GC percentage for bases at position 32 of the sequence is: 48.75 %
+The GC percentage for bases at position 33 of the sequence is: 49.75 %
+The GC percentage for bases at position 34 of the sequence is: 44.5 %
+The GC percentage for bases at position 35 of the sequence is: 48.75 %
+The GC percentage for bases at position 36 of the sequence is: 48.25 %
